@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Streamz video streaming platform
+
+## Todo
+* Refactor to use hooks
+* Implement Google Auth package, refactor authorization
+* Implement Redux Toolkit
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
